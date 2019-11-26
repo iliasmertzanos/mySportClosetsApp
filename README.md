@@ -8,7 +8,7 @@ It is based on JAVA EE using GlassFish web server.
 ## App description
 
 The main entities that are being managed from this app are the `Athlete` and the `Closet`. 
-This are to be found in the com.models package.
+This are to be found in the `com.models` package.
 
 The main controller `ManageCloset` provides the following endpoints in order to manage the entities: 
 
